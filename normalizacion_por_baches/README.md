@@ -2,7 +2,7 @@
 
 ![image1](https://miro.medium.com/v2/resize:fit:709/1*Y0EtAQpR2iBsv97YrwRywg.png)
 
-Aunque no directamente implementado con este objectivo, es innegable que la [normalizacion por baches](https://arxiv.org/pdf/1502.03167) tiene un efecto regulador en el proceso de entrenamiento de modelos avanzados. Fue primeramente creado con el objetivo de estabilizar las distribuciones de las salidas de capas secuenciales en redes neuronales. Esto es, a medida que la entrada se propaga hacia delante, su distribucion se desvia lo suficiente como para generar una discrepancia entre las normas de gradientes de capas secuenciales que imposibilita un entrenamiento uniforme a traves de toda la estructura.
+Aunque no directamente implementado con este objectivo, es innegable que la [normalizacion por baches](https://arxiv.org/pdf/1502.03167) tiene un efecto regulador en el proceso de entrenamiento de modelos avanzados. Fue primeramente creado con el objetivo de estabilizar las distribuciones de las salidas de capas secuenciales en redes neuronales. A medida que la entrada se propaga hacia delante, su distribucion se desvia lo suficiente como para generar una discrepancia entre las normas de gradientes de capas secuenciales que imposibilita un entrenamiento uniforme a traves de toda la estructura. Es por esto que se creo la normalizacion por baches, para poder solucionar los cambios de distribucion repentinos a medida que se propaga la entrada.
 
 Una muy buena lectura que insito al lector revisar es la siguiente: [Understanding Batch Normalization](https://arxiv.org/abs/1806.02375)
 

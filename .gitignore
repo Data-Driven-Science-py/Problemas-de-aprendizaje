@@ -1,0 +1,12 @@
+# Ignore temporary files generated during LaTeX compilation
+*.aux
+*.tex
+*.log
+*.out
+*.toc
+*.gz
+*.synctex(busy)
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+

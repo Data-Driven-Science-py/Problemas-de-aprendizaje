@@ -6,6 +6,8 @@ La varianza y el sesgo son problemas recurrentes en machine learning. En la busq
 
 ![image](https://media.licdn.com/dms/image/v2/C4E22AQH1UrwEMcBRfg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1653026422242?e=2147483647&v=beta&t=UIctBj9TdQeEWho68EZYJHr89lraDxUzhT4mucI33Rg)
 
+Es necesario equilibrar aspectos de los modelos para poder obtener el resultado esperado:
+
 ![image1](https://i.stack.imgur.com/eVFct.png)
 
 # Regulacion

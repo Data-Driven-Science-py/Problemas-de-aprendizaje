@@ -12,3 +12,4 @@ Es necesario equilibrar aspectos de los modelos para poder obtener el resultado 
 
 # Regulacion
 Para solucionar este tipo de problemas, podemos utilizar medidas de regulacion para converger al mejor modelo. Podemos limitar el tama;o de una arquitectura, o podemos implementar limites en el entrenamiento y arquitectura, este modulo aborda estos problemas.
+
